@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+vMRB7Cr96cO+TvJJXUeGR+oIGvXRVzWa7/0VtPaLvHyriZ9ZreVElI50VhIuy76WMAVYmQyKOj0p2eC/eRzg==",
+  "success": true,
+  "projectFilePath": "d:\\repos\\KayneandRon\\KayneandRon\\KayneandRon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\promobius\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
